@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btnStudentDetails"
+        android:icon="@drawable/ic_account_circle_24px"
+        android:title="@string/student_details" />
+    <item
+        android:id="@+id/btnScanQR"
+        android:icon="@drawable/ic_qrcode_24px"
+        android:title="@string/scan_qr_code" />
+    <item
+        android:id="@+id/btnHostControls"
+        android:icon="@drawable/ic_settings_remote_24px"
+        android:title="@string/host_controls" />
+</menu>

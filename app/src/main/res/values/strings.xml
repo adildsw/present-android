@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">present</string>
+    <string name="server_address">Server Address</string>
+    <string name="system_logo">System Logo</string>
+    <string name="change_server_address">Change Server Address</string>
+    <string name="retry">Retry Connection</string>
+    <string name="error_server_unreachable">Error: Server Unreachable</string>
+    <string name="student_roll">Student Roll</string>
+    <string name="welcome">WELCOME</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="bottom_black_bar">Bottom Black Bar</string>
+    <string name="student_details">Student Details</string>
+    <string name="attendance_controls">Attendance Controls</string>
+    <string name="host_controls">Host Controls</string>
+    <string name="organization_details">Organization Details</string>
+    <string name="exit_server">Exit Server</string>
+    <string name="none">None</string>
+    <string name="organization">Organization</string>
+    <string name="student_name">Student Name</string>
+    <string name="department">Department</string>
+    <string name="start_year">Start Year</string>
+    <string name="graduation_year">Graduation Year</string>
+    <string name="section">Section</string>
+    <string name="loading">Loading...</string>
+    <string name="session_details">Session Details</string>
+    <string name="course_code">Course Code</string>
+    <string name="course_name">Course Name</string>
+    <string name="faculty_code">Faculty Code</string>
+    <string name="date">Date</string>
+    <string name="n_a">N/A</string>
+</resources>

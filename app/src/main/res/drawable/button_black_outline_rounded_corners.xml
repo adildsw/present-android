@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_enabled="false" android:color="@color/softGrey">
+        <shape android:shape="rectangle">
+            <stroke android:color="@color/buttonDisabled" android:width="2dp"
+                android:dashWidth="5dp" android:dashGap="2dp"/>
+            <corners android:radius="16dp" />
+            <padding android:left="12dp" />
+            <padding android:right="12dp" />
+        </shape>
+    </item>
+
+    <item android:state_pressed="true" android:color="@color/softWhite">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/buttonPressed" />
+            <corners android:radius="16dp" />
+            <padding android:left="12dp" />
+            <padding android:right="12dp" />
+        </shape>
+    </item>
+
+    <item android:state_focused="true" android:color="@color/softWhite">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/buttonFocused" />
+            <corners android:radius="16dp" />
+            <padding android:left="12dp" />
+            <padding android:right="12dp" />
+        </shape>
+    </item>
+
+    <item android:color="@color/softBlack">
+        <shape android:shape="rectangle">
+            <stroke android:color="@color/buttonEnabled" android:width="2dp" />
+            <corners android:radius="16dp" />
+            <padding android:left="12dp" />
+            <padding android:right="12dp" />
+        </shape>
+    </item>
+</selector>

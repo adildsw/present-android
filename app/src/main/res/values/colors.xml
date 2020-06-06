@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#325D79</color>
+    <color name="colorPrimaryDark">#1a1a1a</color>
+    <color name="colorAccent">#EF3D59</color>
+    <color name="colorSecondary">#3a3a3a</color>
+
+    <color name="softBlack">#1a1a1a</color>
+    <color name="softWhite">#EEEEEE</color>
+    <color name="softRed">#EF3D59</color>
+    <color name="softBlue">#325D79</color>
+    <color name="softLightBlue">#568EA6</color>
+    <color name="softGrey">#9a9a9a</color>
+
+    <color name="transparent">#80000000</color>
+
+    <color name="buttonEnabled">#1a1a1a</color>
+    <color name="buttonFocused">#3a3a3a</color>
+    <color name="buttonPressed">#5a5a5a</color>
+    <color name="buttonDisabled">#9a9a9a</color>
+</resources>
